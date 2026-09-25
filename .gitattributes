@@ -1,0 +1,2 @@
+data/test/labels/*.txt text eol=lf
+reports/BLIND_SCAN.md text eol=lf

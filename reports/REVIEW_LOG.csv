@@ -1,0 +1,5 @@
+round,frame_id,object,action,rule_or_reason
+1,frame_0331.jpg,xe nhỏ ở xa gần phía trên-trái,added,Pre-label bỏ sót. Vẫn thấy cặp đèn và đường viền thân xe
+1,frame_0331.jpg,box trùng trên xe đèn pha ở vùng trái-giữa,deleted,Hai box cùng phủ một xe. Mỗi xe chỉ giữ một box
+1,frame_0331.jpg,xe rất xa quanh vị trí x=443 y=298,edited,Nới box ôm phần thân nhìn thấy quanh cụm đèn thay vì chỉ khoanh đèn
+1,frame_0107.jpg,xe gần camera ở làn giữa phía dưới,accepted,Box đã ôm sát thân xe và không tính vệt sáng trên mặt đường
